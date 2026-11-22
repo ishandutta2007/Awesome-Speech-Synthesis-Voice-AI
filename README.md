@@ -4,12 +4,14 @@
 
 # 🎙️ Awesome Speech Synthesis & Voice AI Ecosystem
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=gihhub" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Tracked Repos](https://img.shields.io/badge/Open--Source%20Repos-24%2B-blueviolet.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Speech-Synthesis-Voice-AI)
 [![SaaS Platforms](https://img.shields.io/badge/SaaS%20Platforms-10-blue.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Speech-Synthesis-Voice-AI)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Speech-Synthesis-Voice-AI/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Speech-Synthesis-Voice-AI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A Curated Directory of SaaS / Hosted Platforms & State-of-the-Art Open-Source GitHub Projects**
 
@@ -36,6 +38,8 @@ This repository serves as an authoritative index for machine learning engineers,
 - [💻 Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
 - [🛠️ Voice AI Architectural Frameworks](#️-voice-ai-architectural-frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Ethical Use & Disclaimer](#️-ethical-use--disclaimer)
 
 ---
@@ -153,6 +157,25 @@ Contributions, bug reports, and updates are welcomed!
    - For **SaaS**: Add platform name, website URL, company scale/valuation, starting tier pricing, and free tier/trial limits.
    - For **Open-Source**: Provide the GitHub repo link, star badge (`style=social&color=white`), license, and core architecture summary.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
+
+---
+
+## 💖 Support
+
+A huge thank you to everyone exploring, contributing to, and supporting this ecosystem! If you find this repository valuable, please consider:
+- ⭐ **Starring** the repository on GitHub
+- 🍴 **Forking** and contributing new tools, models, and benchmarks
+- 📢 **Sharing** this curated guide with fellow researchers, engineers, and creators
+- ☕ Supporting further open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Speech-Synthesis-Voice-AI&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Speech-Synthesis-Voice-AI&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Speech-Synthesis-Voice-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Speech-Synthesis-Voice-AI&type=date&legend=top-left)
 
 ---
 
