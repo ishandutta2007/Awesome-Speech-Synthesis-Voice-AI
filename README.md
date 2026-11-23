@@ -75,9 +75,9 @@ Below is a breakdown of top commercial and hosted voice AI platforms, sorted by 
 
 ## 💻 Open-Source GitHub Projects (Ranked by Stars)
 
-Below is the complete index of state-of-the-art open-source text-to-speech models, zero-shot voice cloning libraries, and real-time audio frameworks, sorted by **GitHub Stars (Descending)**.
+Below is the complete index of state-of-the-art open-source text-to-speech models, zero-shot voice cloning libraries, and real-time audio frameworks, sorted by **GitHub_Stars (Descending)**.
 
-| 🌟 Repository & Project | 📊 GitHub Stars | 📜 License | 🎯 Key Architecture & Highlights |
+| 🌟 Repository & Project | 📊 GitHub_Stars | 📜 License | 🎯 Key Architecture & Highlights |
 | :--- | :---: | :---: | :--- |
 | **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** | [![Stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social&color=white)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers) | MIT | SOTA few-shot voice cloning web UI capable of cloning reference timbre from 5-second audio samples; cross-lingual synthesis in English, Japanese, and Chinese. |
 | **[Coqui TTS](https://github.com/coqui-ai/TTS)** | [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) | MPL-2.0 | Legendary deep learning toolkit for TTS; battle-tested in research & production, home to **XTTS-v2** 17-language streaming zero-shot cloning. |
@@ -155,7 +155,7 @@ Contributions, bug reports, and updates are welcomed!
 2. 🌿 **Create a branch** (`git checkout -b feature/add-new-tts-engine`).
 3. 📝 **Add/Update entries**:
    - For **SaaS**: Add platform name, website URL, company scale/valuation, starting tier pricing, and free tier/trial limits.
-   - For **Open-Source**: Provide the GitHub repo link, star badge (`style=social&color=white`), license, and core architecture summary.
+   - For **Open-Source**: Provide the GitHub repo link, Stars_Badge (`style=social&color=white`), license, and core architecture summary.
 4. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
 ---
